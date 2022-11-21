@@ -12,5 +12,6 @@
     <img width="30px" src="https://avatars.githubusercontent.com/u/44036562?s=280&v=4">
     <img width="30px" src="https://www.kanhasoft.com/assets/images/nodejs-development.png">
     <img width="30px" src="https://static-00.iconduck.com/assets.00/nestjs-icon-512x510-9nvpcyc3.png">
+    <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png">
 
 </p>
